@@ -1,0 +1,26 @@
+.theme-selector{
+    display: flex;
+    justify-content: flex-end;
+    max-width: 1200px;
+    align-items: center;
+    margin: 10px auto;
+}
+
+.theme-buttons div {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-left: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.toggle-mode{
+    margin-right: auto;
+}
+
+.toggle-mode img{
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
